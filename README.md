@@ -15,7 +15,7 @@ Table of contents:
 git clone git@github.com:kpwzto/basic-express-mongodb.git
 yarn install
 cp .env.example .env
-yarn start
+yarn dev
 ```
 
 Then visit [http://localhost:3000/](http://localhost:3000/)
